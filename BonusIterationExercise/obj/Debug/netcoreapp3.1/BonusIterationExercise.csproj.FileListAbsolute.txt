@@ -1,0 +1,13 @@
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\bin\Debug\netcoreapp3.1\BonusIterationExercise.exe
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\bin\Debug\netcoreapp3.1\BonusIterationExercise.deps.json
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\bin\Debug\netcoreapp3.1\BonusIterationExercise.runtimeconfig.json
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\bin\Debug\netcoreapp3.1\BonusIterationExercise.runtimeconfig.dev.json
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\bin\Debug\netcoreapp3.1\BonusIterationExercise.dll
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\bin\Debug\netcoreapp3.1\BonusIterationExercise.pdb
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.AssemblyInfo.cs
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.dll
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.pdb
+C:\Users\matti\Desktop\repos\BonusIterationExercise\BonusIterationExercise\obj\Debug\netcoreapp3.1\BonusIterationExercise.genruntimeconfig.cache
